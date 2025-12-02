@@ -1,0 +1,16 @@
+=== Rapport des notes ===
+Nombre d'étudiants : 8
+Notes originales : [12, 9, 15, 8, 17, 13, 19, 10]
+Notes après bonus : [13, 10, 16, 9, 18, 14, 20, 11]
+Moyenne initiale : 12.88
+Moyenne après bonus : 13.88
+Notes ≥ 12 : [12, 15, 17, 13, 19] (soit 5 étudiants)
+Détails par étudiant :
+  Étudiant 01 -- note 12.00 -> bonus 13.00
+  Étudiant 02 -- note  9.00 -> bonus 10.00
+  Étudiant 03 -- note 15.00 -> bonus 16.00
+  Étudiant 04 -- note  8.00 -> bonus  9.00
+  Étudiant 05 -- note 17.00 -> bonus 18.00
+  Étudiant 06 -- note 13.00 -> bonus 14.00
+  Étudiant 07 -- note 19.00 -> bonus 20.00
+  Étudiant 08 -- note 10.00 -> bonus 11.00
